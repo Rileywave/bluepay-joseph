@@ -25,7 +25,7 @@ const JoinGroupsAd = () => {
   };
 
   const handleJoinTelegram = () => {
-    window.location.href = "https://t.me/bluepayservive";
+    window.location.href = "https://t.me/bluepayservice";
     handleDismiss();
   };
 
