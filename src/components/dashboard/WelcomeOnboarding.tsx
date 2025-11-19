@@ -85,7 +85,7 @@ const WelcomeOnboarding = () => {
   };
 
   const handleCommunities = () => {
-    window.open("https://t.me/Officialbluepay", "_blank");
+    window.open("https://t.me/Bluepaywebsupport", "_blank");
   };
 
   const handleSupport = () => {
