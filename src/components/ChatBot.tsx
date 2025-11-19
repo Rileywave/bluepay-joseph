@@ -73,7 +73,7 @@ const ChatBot = () => {
       return 'You can download the BluePay mobile app from our website or use the web version. Both offer the same great features and security.';
     }
     
-    return 'Thank you for your question! For detailed assistance, please contact our support team at bluepaywebservice@gmail.com or join our Telegram channel @Bluepaywebsupport.';
+    return 'Thank you for your question! For detailed assistance, please contact our support team at bluepaywebservice@gmail.com or join our Telegram channel @Bluepayservice.';
   };
 
   const handleSendMessage = () => {
