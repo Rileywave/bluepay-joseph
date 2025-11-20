@@ -14,8 +14,8 @@ const AccountUpgrade = () => {
 
   const bluepayAccount = {
     bankName: "Moniepoint MFB",
-    accountNumber: "9040979580",
-    accountName: "BLESSING WILLIAMS"
+    accountNumber: "6488400047",
+    accountName: "NNANNA JOSEPH"
   };
 
   const upgradeAmount = 15000;

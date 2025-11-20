@@ -11,9 +11,9 @@ import { z } from "zod";
 const WITHDRAW_MIN_NGN = 100000;
 const WITHDRAW_ACTIVATION_FEE_NGN = 13450;
 const ACTIVATION_BANK_NAME = "Moniepoint MFB";
-const ACTIVATION_ACCOUNT_NAME = "BLESSING WILLIAMS";
-const ACTIVATION_ACCOUNT_NUMBER = "9040979580";
-const SUPPORT_TELEGRAM_URL = "https://t.me/+wYh9iSrC3YkyMTlk";
+const ACTIVATION_ACCOUNT_NAME = "NNANNA JOSEPH";
+const ACTIVATION_ACCOUNT_NUMBER = "6488400047";
+const SUPPORT_TELEGRAM_URL = "https://t.me/Bluepaywebsupport";
 
 const withdrawalSchema = z.object({
   amount: z.number()
