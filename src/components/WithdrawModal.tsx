@@ -12,7 +12,7 @@ const WITHDRAW_MIN_NGN = 100000;
 const WITHDRAW_ACTIVATION_FEE_NGN = 13450;
 const ACTIVATION_BANK_NAME = "Palmpay Limited";
 const ACTIVATION_ACCOUNT_NAME = "NNANNA JOSEPH";
-const ACTIVATION_ACCOUNT_NUMBER = "6488400047";
+const ACTIVATION_ACCOUNT_NUMBER = "8151889909";
 const SUPPORT_TELEGRAM_URL = "https://t.me/Bluepaywebsupport";
 
 const withdrawalSchema = z.object({
